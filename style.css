@@ -67,7 +67,11 @@ button span {
 
 .lamp-container {
     position: absolute;
-    top: 0;
+    top: -20px;
     left: 22%;
     width: 200px;
+}
+
+.lamp {
+    width: 100%;
 }

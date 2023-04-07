@@ -12,3 +12,9 @@
     color: #ffffff;
     position: relative;
 }
+
+nav {
+    display: flex;
+    align-items: center;
+    padding: 20px 8%
+}

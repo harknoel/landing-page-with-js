@@ -142,3 +142,7 @@ button span {
     background: #ffffff;
     margin-left: 31px;
 }
+
+.on {
+    opacity: 1;
+}

@@ -131,3 +131,7 @@ button span {
     background: #00986f;
     display: block;
 }
+
+.active {
+    background: green;
+}

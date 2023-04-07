@@ -18,3 +18,9 @@ nav {
     align-items: center;
     padding: 20px 8%
 }
+
+nav .menu-img {
+    width: 25px;
+    margin-right: 20px;
+    cursor: pointer;
+}

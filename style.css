@@ -24,3 +24,8 @@ nav .menu-img {
     margin-right: 20px;
     cursor: pointer;
 }
+
+nav .logo {
+    width: 160px;
+    cursor: pointer;
+}

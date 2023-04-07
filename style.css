@@ -75,3 +75,12 @@ button span {
 .lamp {
     width: 100%;
 }
+
+.light {
+    position: absolute;
+    top: 97%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 700px;
+    margin-left: -10px;
+}
